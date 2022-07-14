@@ -4,7 +4,9 @@
 
 ## Funcionalidades:
 
-_Sobre mim, meus estudos e curiosidades._
+_Sobre meus estudos de DevOps._
+
+![Imagem devops](devops_image.jpg)
 
 ### Estudos 
 
@@ -20,3 +22,4 @@ _Sobre mim, meus estudos e curiosidades._
 2. Shell Script 
 3. SQL
 4. CI/CD
+
