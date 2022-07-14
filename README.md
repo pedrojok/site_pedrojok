@@ -1,6 +1,6 @@
 # Site do PedroJOK
 
-Site de informações, estudos sobre TI e muito mais.
+**Site de informações**, estudos sobre TI e *muito mais*.
 
 ## Funcionalidades:
 
