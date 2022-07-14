@@ -25,5 +25,5 @@ _Sobre meus estudos de DevOps._
 
 ### Links de Referências de Estudos DevOps
 
-[schoolofnet](https://www.schoolofnet.com/plano-de-estudo-infra-e-devops/)
+[School of Net](https://www.schoolofnet.com/plano-de-estudo-infra-e-devops/)
 
