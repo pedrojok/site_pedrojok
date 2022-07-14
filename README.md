@@ -8,7 +8,7 @@ _Sobre mim, meus estudos e curiosidades._
 
 ### Estudos 
 
-* Terraform<
+* Terraform
 * Jenkins
 * AWS
 * Kubernetes
