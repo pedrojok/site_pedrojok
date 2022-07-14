@@ -8,7 +8,7 @@ _Sobre meus estudos de DevOps._
 
 ![Imagem devops](devops_image.jpg)
 
-### Estudos 
+### Estudos Atuais 
 
 * Terraform
 * Jenkins
