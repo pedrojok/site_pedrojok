@@ -4,4 +4,12 @@
 
 ## Funcionalidades:
 
-Sobre mim, meus estudos e curiosidades. 
+_Sobre mim, meus estudos e curiosidades._
+
+### Estudos 
+
+**Terraform**
+**Jenkins**
+**AWS**
+**Kubernetes**
+**Docker**
