@@ -8,8 +8,8 @@ _Sobre mim, meus estudos e curiosidades._
 
 ### Estudos 
 
-<p>Terraform<br>
-<p>Jenkins<br>
-<p>AWS<br>
-<p>Kubernetes<br>
-<p>Docker<br>
+* Terraform<
+* Jenkins
+* AWS
+* Kubernetes
+* Docker
