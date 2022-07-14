@@ -23,3 +23,7 @@ _Sobre meus estudos de DevOps._
 3. SQL
 4. CI/CD
 
+### Links de Referências de Estudos DevOps
+
+[schoolofnet](https://www.schoolofnet.com/plano-de-estudo-infra-e-devops/)
+
